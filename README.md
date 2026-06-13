@@ -21,11 +21,11 @@
 
   ## Sobre Meu GitHub
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryan-Dev24&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bryan-Dev24&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bryan-Dev24&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bryan-Dev24&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bryan-Dev24&theme=dark&&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryandevelopmens&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryandevelopments4&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryandevelopments&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryandevelopments&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryandevelopments&theme=dark&&utcOffset=3)
 
  </body>
 </html>
