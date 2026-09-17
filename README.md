@@ -21,8 +21,8 @@
 
   ## Sobre Meu GitHub
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryandevelopmens&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryandevelopments4&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryandevelopments&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryandevelopments&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryandevelopments&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryandevelopments&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryandevelopments&theme=dark&&utcOffset=3)
