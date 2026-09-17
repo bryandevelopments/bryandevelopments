@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
- <head>
-  
- </head>
  <body>
 
   <h4 align="center">
