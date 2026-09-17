@@ -25,7 +25,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryandevelopments&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryandevelopments&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryandevelopments&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryandevelopments&theme=dark&&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryandevelopments&theme=dark&&utcOffset=-3)
 
  </body>
 </html>
